@@ -1,5 +1,5 @@
 # Logistic_Regression
-ExcelR Data Science Course : Assignment 5 - Logistic Regression
+ExcelR Data Science Course : Assignment 6 - Logistic Regression
 
 **Problem Statement:**
 Output variable -> y
